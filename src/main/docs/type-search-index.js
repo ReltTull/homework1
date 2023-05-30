@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.geekbrains.homework1.process","l":"Converter"},{"p":"ru.geekbrains.homework1.sample","l":"Main"}];updateSearchResults();

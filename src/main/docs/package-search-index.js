@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.geekbrains.homework1.process"},{"l":"ru.geekbrains.homework1.sample"}];updateSearchResults();
